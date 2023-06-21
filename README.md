@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+Profile;Computer+Engineering+student)](https://git.io/typing-svg)
-# About Me 🐱‍👤
+# About Me
 
-- 19 years old 🐱‍🐉
-- Computer Engineering student 💻
+- 19 years old
+- Computer Engineering student 
 
 <br />
 <h1>At the moment, I'm studing 📚</h1>
